@@ -1,0 +1,10 @@
+{
+  "connectionProfile": "../../fabric/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.json",
+  "channelName": "channel1",
+  "chaincodeName": "basic",
+  "user": {
+    "name": "org1UserId",
+    "mspid": "Org1MSP",
+    "cryptoPath": "../../fabric/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/users/User1@org1.example.com/msp"
+  }
+}
